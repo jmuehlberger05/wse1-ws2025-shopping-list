@@ -17,4 +17,5 @@ salat
 brot
 ice
 cola
+fanta
 sprite
